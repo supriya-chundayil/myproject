@@ -1,0 +1,48 @@
+[33mcommit 1470fb783dddd5326d4d50d900f7f5e8d6349b26[m[33m ([m[1;36mHEAD -> [m[1;32mfeature[m[33m)[m
+Author: supriya.chundayil <supriya.chundayil@claysys.net>
+Date:   Wed Jan 5 15:15:55 2022 +0530
+
+    index.html updated
+
+[33mcommit e05c99f3c5cafebbb64e58fabac673d3a7013c6c[m[33m ([m[1;32mmaster[m[33m)[m
+Author: supriya.chundayil <supriya.chundayil@claysys.net>
+Date:   Wed Jan 5 14:53:19 2022 +0530
+
+    first.html updated
+
+[33mcommit e35aec727d811a9daba924aa7c796f0f633f230d[m[33m ([m[1;35mrefs/stash[m[33m)[m
+Merge: b4338a5 94a5724
+Author: supriya.chundayil <supriya.chundayil@claysys.net>
+Date:   Wed Jan 5 14:29:30 2022 +0530
+
+    WIP on feature: b4338a5 first.html edited
+
+[33mcommit 94a5724aa404b38f64552ead74ca62fc4bb99b43[m
+Author: supriya.chundayil <supriya.chundayil@claysys.net>
+Date:   Wed Jan 5 14:29:30 2022 +0530
+
+    index on feature: b4338a5 first.html edited
+
+[33mcommit b4338a57153b16db0a80ede7f08f7620ea906016[m
+Author: supriya.chundayil <supriya.chundayil@claysys.net>
+Date:   Wed Jan 5 12:27:13 2022 +0530
+
+    first.html edited
+
+[33mcommit 011fc5825e2658f56166f72e188d1943e9caa40c[m
+Author: supriya.chundayil <supriya.chundayil@claysys.net>
+Date:   Wed Jan 5 11:11:54 2022 +0530
+
+    next file added
+
+[33mcommit 40595533c6984089178562dfa519f70d5e721a40[m
+Author: supriya.chundayil <supriya.chundayil@claysys.net>
+Date:   Tue Jan 4 20:00:52 2022 +0530
+
+    Title Added
+
+[33mcommit a79e73a5d1d78e511727f5e93821b87c81238919[m
+Author: supriya.chundayil <supriya.chundayil@claysys.net>
+Date:   Tue Jan 4 19:46:42 2022 +0530
+
+    Initial Commit
